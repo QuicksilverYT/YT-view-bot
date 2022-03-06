@@ -1,15 +1,7 @@
 #Things you need
 import webbrowser, time
 import random
-from datetime import datetime
-current = datetime.now().strftime("%H:%M:%S")
-print("This started at -", current)
-print("  ")
-#Inputs
 url = input("Enter the URL of the video you want to get views ")
-
-
-
 #YT VIEW CODE
 for i in range(int(input("How much views do you want to get ?"))):
     print("running video for {} times".format(i))  #This will show that how many times the video is running
@@ -18,11 +10,10 @@ for i in range(int(input("How much views do you want to get ?"))):
 
 #last print
 print("  ")
-print("This ended at -", current)
 print("  ")
 time.sleep(2)
 print("Hope you found it useful ")
 print("  ")
 time.sleep(0.5)
 print("If you did not receive your views ,please wait for 10 to 20 minutes")
-
+print("Made By QuicksilverYT")
