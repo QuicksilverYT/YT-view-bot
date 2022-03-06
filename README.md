@@ -1,4 +1,5 @@
-This is a Project made to help people get views on their YT channel 
-Made by QuicksilverYT
+<a href="#"><img width="100%" height="auto" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS3Kea6WTAnL6hrOZSeKLNweTmW044L0kDfg&usqp=CAU" height="175px"/></a>
 
-Hope you found it useful 
+If you own an youtube channel you would know how difficult it is to manage the channel and to get views 
+to make this process eay I have made this project 
+Here you have to enter The no of views you need , The url of your video and then run it 
